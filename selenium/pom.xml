@@ -208,7 +208,7 @@
     <dependency>
       <groupId>com.deque.html.axe-core</groupId>
       <artifactId>dequeutilites</artifactId>
-      <version>4.5.1</version>
+      <version>4.10.1</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
